@@ -9,6 +9,9 @@
 </template>
 
 <style lang="less">
+//@import "src/assets/css/style.css";
+//require('@/src/assets/css/style.css');
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
